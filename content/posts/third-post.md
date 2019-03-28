@@ -3,7 +3,7 @@ title: "Third Post"
 date: 2019-03-29T10:06:59+11:00
 showDate: true
 draft: true
-tags: ["blog","story"]
+tags: ["blog","Bruce Springsteen", "Music"]
 ---
 
 ## This is just a test draft

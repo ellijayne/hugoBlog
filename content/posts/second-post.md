@@ -3,7 +3,7 @@ title: "Second Post"
 date: 2019-03-29T10:04:31+11:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["blog","japanese", "japanese peom", "kana"]
 ---
 
 ## Now this is my second post. 
