@@ -1,6 +1,7 @@
 # Welcome to my sample blog - it's not a very good blog. 
 
-*Visit the live site* [Here] (https://vigorous-boyd-2d6efa.netlify.com/) or 👉 https://vigorous-boyd-2d6efa.netlify.com/
+*Visit the live site* [Here](https://vigorous-boyd-2d6efa.netlify.com/) or 👉 https://vigorous-boyd-2d6efa.netlify.com/
+
 
 The blog was build using *Hugo* and had been deployed on *Netlify*
 
