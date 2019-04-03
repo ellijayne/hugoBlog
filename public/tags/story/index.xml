@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Story on My New Hugo Site</title>
-    <link>http://example.org/tags/story/</link>
+    <link>https://vigorous-boyd-2d6efa.netlify.com/tags/story/</link>
     <description>Recent content in Story on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2019 12:48:09 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vigorous-boyd-2d6efa.netlify.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://vigorous-boyd-2d6efa.netlify.com/post/my-first-post/</link>
       <pubDate>Wed, 27 Mar 2019 12:48:09 +1100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://vigorous-boyd-2d6efa.netlify.com/post/my-first-post/</guid>
       <description>This is my very first hugo blod post. Lorem ipsum dolor amet semiotics tofu mumblecore everyday carry hoodie, shoreditch portland tacos woke XOXO tumeric sartorial paleo taxidermy. Flexitarian four dollar toast ugh tumblr, aesthetic chartreuse cronut pinterest health goth woke enamel pin polaroid messenger bag. Gentrify direct trade church-key deep v, hashtag slow-carb VHS sustainable salvia hot chicken master cleanse vinyl. Hammock distillery DIY, fanny pack glossier messenger bag mustache tattooed marfa echo park man bun before they sold out.</description>
     </item>
     

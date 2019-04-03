@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/second-post/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/post/second-post/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/post/my-first-post/</loc>
     <lastmod>2019-03-27T12:48:09+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/blog/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/japanese/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/japanese/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/japanese-peom/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/japanese-peom/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/kana/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/kana/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/post/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/story/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/story/</loc>
     <lastmod>2019-03-27T12:48:09+11:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://vigorous-boyd-2d6efa.netlify.com/tags/</loc>
     <lastmod>2019-03-29T10:04:31+11:00</lastmod>
     <priority>0</priority>
   </url>

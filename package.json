@@ -1,0 +1,30 @@
+{
+  "name": "devblog",
+  "version": "1.0.0",
+  "description": "hugo blog test",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.5.0",
+    "postcss-cli": "^6.1.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "datocms-client": "^0.8.15",
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellijayne/hugoBlog.git"
+  },
+  "author": "EJ Willard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellijayne/hugoBlog/issues"
+  },
+  "homepage": "https://github.com/ellijayne/hugoBlog#readme"
+}

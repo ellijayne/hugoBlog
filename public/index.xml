@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://vigorous-boyd-2d6efa.netlify.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2019 10:04:31 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vigorous-boyd-2d6efa.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second Post</title>
-      <link>http://example.org/posts/second-post/</link>
+      <link>https://vigorous-boyd-2d6efa.netlify.com/post/second-post/</link>
       <pubDate>Fri, 29 Mar 2019 10:04:31 +1100</pubDate>
       
-      <guid>http://example.org/posts/second-post/</guid>
+      <guid>https://vigorous-boyd-2d6efa.netlify.com/post/second-post/</guid>
       <description>Now this is my second post. it will be a very good post it will not be a very good post
 いろはにほへと　ちりぬるを わかよたれそ　つねならむ うゐのおくやま　けふこえて あさきゆめみし　ゑひもせすいろはにほへと　ちりぬるを わかよたれそ　つねならむ うゐのおくやま　けふこえて あさきゆめみし　ゑひもせすいろはにほへと　ちりぬるを わかよたれそ　つねならむ うゐのおくやま　けふこえて あさきゆめみし　ゑひもせす</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://vigorous-boyd-2d6efa.netlify.com/post/my-first-post/</link>
       <pubDate>Wed, 27 Mar 2019 12:48:09 +1100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://vigorous-boyd-2d6efa.netlify.com/post/my-first-post/</guid>
       <description>This is my very first hugo blod post. Lorem ipsum dolor amet semiotics tofu mumblecore everyday carry hoodie, shoreditch portland tacos woke XOXO tumeric sartorial paleo taxidermy. Flexitarian four dollar toast ugh tumblr, aesthetic chartreuse cronut pinterest health goth woke enamel pin polaroid messenger bag. Gentrify direct trade church-key deep v, hashtag slow-carb VHS sustainable salvia hot chicken master cleanse vinyl. Hammock distillery DIY, fanny pack glossier messenger bag mustache tattooed marfa echo park man bun before they sold out.</description>
     </item>
     
